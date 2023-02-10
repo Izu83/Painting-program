@@ -1,0 +1,4 @@
+﻿  BasicCollision.cpp
+C:\Users\User\Desktop\Projects\Painting C++\SFML LEARNING\BasicCollision.cpp(171,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\Projects\Painting C++\SFML LEARNING\BasicCollision.cpp(181,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML LEARNING.vcxproj -> C:\Users\User\Desktop\Projects\Painting C++\x64\Debug\SFML LEARNING.exe
